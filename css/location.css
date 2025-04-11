@@ -166,7 +166,7 @@ nav ul {
 
 }
 
-.location-holder, .media-holder {
+.location-holder {
   width: 100%;
   margin: 4rem 0;
   display: flex;
@@ -175,7 +175,7 @@ nav ul {
   box-sizing: border-box;
 }
 
-.image-holder, .text-holder {
+.text-holder {
   width: 100%;
   padding: 0;
   margin: 0;
