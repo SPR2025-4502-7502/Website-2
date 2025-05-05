@@ -55,7 +55,7 @@ nav ul li:hover {
 
 
 nav ul li a:hover button{
-	text-decoration: ;
+	text-decoration: underline;
 	color: blue;
 	background-color: none;
 }
