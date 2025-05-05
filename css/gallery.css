@@ -121,6 +121,9 @@ p {
 /*	background-color: orangered;*/
 }
 
+.hideThis {
+	display: none;
+}
 
 .gallery-descrip {
 
