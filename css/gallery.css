@@ -92,8 +92,7 @@ nav ul li a:visited {
   font-weight: <weight>;
   font-style: italic;
 }
-
-}	
+}
 
 h1 {
 	display: flex;
@@ -188,13 +187,10 @@ buttongallery {
 
 body{
 
-	flex-direction: column !important;
+	flex-direction: column;
 		margin: 3rem;
 		background-color: pink;
 }
-
-/*		flex-direction: co !important;*/
-/*		margin: 3rem;*/
 
 nav ul {
 	list-style-type: none;
@@ -231,8 +227,6 @@ nav ul {
 	margin-block-start: 0em;
 	padding-inline-start: 0px;
 	
-}
-
 }
 
 }
