@@ -109,7 +109,8 @@ p {
 }
 
 .gallery-section {
-
+max-width: 80%;
+margin: auto;
 }
 
 
@@ -155,8 +156,6 @@ buttongallery {
 }
 
 .gallery-image {
-/*	max-width: 80%;*/
-/*margin: auto;
 display:flex;
 flex-direction: column;
 align-items: center;
