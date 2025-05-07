@@ -111,6 +111,15 @@ p {
   font-style: normal;
 }
 }
+
+.gallery-section {
+margin: auto;
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+}
+
 .hideThis {
 	display: none;
 }
