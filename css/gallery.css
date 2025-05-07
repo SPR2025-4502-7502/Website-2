@@ -155,15 +155,6 @@ buttongallery {
 /*	background-color: forestgreen;*/
 }
 
-.gallery-image {
-display:flex;
-flex-direction: column;
-align-items: center;
-justify-content: space-between;*/
-
-	
-
-}
 
 .gallery-image img {
 	width: 100%;
