@@ -25,7 +25,7 @@ body {
     }
 
 .blurred-leaves {
-	background-image: URL("../img/blurred-leaves.jpg") !important;
+	background-image: URL("/img/blurred-leaves.jpg") !important;
 }
 
 
