@@ -171,9 +171,9 @@ justify-content: space-between;
 
 .gallery-image img {
 	width: 100%;
-/*	aspect-ratio: auto;
+	aspect-ratio: auto;
 	max-height: 600px;
-	margin: auto;*/
+	margin: auto;
 }
 
 .poster img{
@@ -233,7 +233,6 @@ nav ul {
 	
 }
 
-}
 
 .location-holder {
   width: 100%;
@@ -260,4 +259,6 @@ nav ul {
 }
 
 address {
-  font-style: normal;
+  font-style: normal;}
+
+ }
