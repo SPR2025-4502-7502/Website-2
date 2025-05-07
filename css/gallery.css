@@ -17,6 +17,10 @@
   font-size: 2rem;
 }
 
+.hideThis {
+	display: none;
+}
+
 body {
 	display: flex;
 	flex-direction: column;
@@ -82,7 +86,6 @@ nav ul li a {
   font-style: normal;
 }
 
-}
 
 nav ul li a:visited {
   font-family: "Aleo", serif;
@@ -90,31 +93,23 @@ nav ul li a:visited {
   font-weight: <weight>;
   font-style: italic;
 }
-}
 
 h1 {
 	display: flex;
 	justify-content: center;
-	.neuton-bold {
   	font-family: "Neuton", serif;
   	font-weight: 700;
  	 font-style: normal;
 	}
-}
 
 p {
   font-family: "Tajawal", serif;
   font-weight: 400;
   font-style: normal;
 }
-}
 
 .gallery-section {
 
-}
-
-.hideThis {
-	display: none;
 }
 
 
