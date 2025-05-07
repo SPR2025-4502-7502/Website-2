@@ -76,7 +76,6 @@ nav ul li a button {
 
 
 nav ul li a {
-.aleo-<uniquifier> {
   font-family: "Aleo", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -86,7 +85,6 @@ nav ul li a {
 }
 
 nav ul li a:visited {
-	.aleo-<uniquifier> {
   font-family: "Aleo", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -105,7 +103,6 @@ h1 {
 }
 
 p {
-	.tajawal-regular {
   font-family: "Tajawal", serif;
   font-weight: 400;
   font-style: normal;
@@ -113,11 +110,7 @@ p {
 }
 
 .gallery-section {
-margin: auto;
-display:flex;
-flex-direction: column;
-align-items: center;
-justify-content: space-between;
+
 }
 
 .hideThis {
@@ -186,7 +179,6 @@ justify-content: space-between;*/
 }
 
 .poster img{
-
 	max-width: 275px;
 	margin: 1rem;
 	border-radius: 0.4rem;
