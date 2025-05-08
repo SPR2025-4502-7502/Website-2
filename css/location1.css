@@ -28,7 +28,7 @@
   display: -webkit-flex;
   display: flex;
   flex-direction: column;
-  justify-content: space-around, center;
+  justify-content: center;
 }
 
 .location-holder {
@@ -38,6 +38,9 @@
   flex-direction: column;
   gap: 1.2rem;
   box-sizing: border-box;
+  background-color: lightgrey;
+  padding: 1rem;
+  border-radius: 0.5rem;
 }
 
 .text-holder {
