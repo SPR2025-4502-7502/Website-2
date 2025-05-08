@@ -21,12 +21,8 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: rgba(16, 162, 196, 0.8);
+	background-color: pink;
     }
-
-.blurred-leaves {
-	background-image: URL("/img/blurred-leaves.jpg") !important;
-}
 
 
 nav{
