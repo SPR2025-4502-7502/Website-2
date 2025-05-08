@@ -8,7 +8,8 @@
 .row {
   display: -webkit-flex;
   display: flex;
-  flex-direction: justify-content;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 .column {
@@ -218,8 +219,8 @@ nav ul {
 
 .text-holder {
   width: 100%;
-  padding: 0;
-  margin: 0;
+  padding: 1rem;
+  margin: 1rem;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
