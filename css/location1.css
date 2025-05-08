@@ -45,16 +45,11 @@
   text-align: center;
 }
 
-@media (max-width: 600px) {
-  .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-  }
-}
-
 main{
 	display: flex;
 	justify-content: center;
+	max-width: 900px;
+	margin: auto;
 }
 
 body {
@@ -165,6 +160,12 @@ p {
 @media screen and (min-width:500px){
 
 body{
+@media (max-width: 600px) {
+  .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
 
 	flex-direction: column !important;
 		margin: 3rem;
