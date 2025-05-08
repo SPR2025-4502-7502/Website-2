@@ -1,3 +1,22 @@
+.skip-link {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+}
+
+.skip-link:focus{
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
+
 .header {
   background-color: #f1f1f1;
   padding: 30px;
@@ -33,23 +52,9 @@
   }
 }
 
-.skip-link {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  border: 0;
-}
-
-.skip-link:focus{
-  width: unset;
-  height: unset;
-  position: relative;
-  padding: unset;
-  margin: unset;
-  font-size: 2rem;
+main{
+	display: flex;
+	justify-content: center;
 }
 
 body {
