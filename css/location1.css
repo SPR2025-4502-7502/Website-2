@@ -8,6 +8,7 @@
 .row {
   display: -webkit-flex;
   display: flex;
+  padding: 30px;
 }
 
 .column {
