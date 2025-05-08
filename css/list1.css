@@ -106,7 +106,8 @@ p {
 	font-family: "Neuton", serif;
   	font-weight: 700;
  	 font-style: normal;
- 	 flex-direction: column;
+ 	 display: flex;
+ 	 flex-direction: row;
 
 }
 
