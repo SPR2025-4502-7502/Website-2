@@ -27,7 +27,7 @@
 .row {
   display: -webkit-flex;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-around, center;
 }
 
