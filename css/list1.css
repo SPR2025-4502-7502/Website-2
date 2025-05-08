@@ -85,11 +85,6 @@ nav ul li a:visited {
 }
 
 
-.row {
-  display: -webkit-flex;
-  display: flex;
-  flex-direction: justify-content;
-}
 
 h1 {
 	display: flex;
@@ -111,7 +106,7 @@ p {
 	font-family: "Neuton", serif;
   	font-weight: 700;
  	 font-style: normal;
- 	 flex-direction: row;
+ 	 flex-direction: column;
 
 }
 
@@ -122,7 +117,7 @@ p {
 	max-width: 275px;
 	margin: 1rem;
 	border-radius: 0.4rem;
-	flex-direction: row;
+	flex-direction: column;
 }
 
 
