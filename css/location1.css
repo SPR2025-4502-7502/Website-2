@@ -39,7 +39,7 @@
   box-sizing: border-box;
   background-color: lightgrey;
   padding: 1rem;
-  border-radius: 3px;
+  border-radius: 10px;
 }
 
 .text-holder {
