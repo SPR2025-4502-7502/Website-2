@@ -8,7 +8,7 @@
 .row {
   display: -webkit-flex;
   display: flex;
-  flex-direction: row-gap;
+  flex-direction: justify-content;
 }
 
 .column {
