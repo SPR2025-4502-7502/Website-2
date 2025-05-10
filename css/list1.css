@@ -105,6 +105,17 @@ img {
   height: 240px;
 }
 
+.list-holder {
+  width: 100%;
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-color: #E67F90;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
 
 .list-item{
 
