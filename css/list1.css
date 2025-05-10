@@ -100,6 +100,11 @@ p {
   font-style: normal;
 }
 
+img {
+	width:1200px;
+  height: 800px;
+}
+
 
 .list-item{
 
@@ -114,8 +119,6 @@ p {
 .list-image {
 	padding:1rem;
 	margin: 1rem;
-	width:1200px;
-  height: 800px;
 }
 
 
