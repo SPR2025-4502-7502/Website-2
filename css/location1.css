@@ -37,7 +37,7 @@
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  background-color: lightgrey;
+  background-color: #E67F90;
   padding: 1rem;
   border-radius: 10px;
 }
