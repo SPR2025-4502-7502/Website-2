@@ -25,6 +25,34 @@ body {
     }
 
 
+h1 {
+	display: flex;
+	justify-content: center;
+  	font-family: "Neuton", serif;
+  	font-weight: 700;
+ 	 font-style: normal;
+	}
+
+p {
+  font-family: "Tajawal", serif;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+	style= width:500px;height:500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.list {
+	display: flex;
+	justify-content: center;
+}
+
 nav{
 	margin: auto;
 	max-width: 600px;
@@ -80,31 +108,3 @@ nav ul li a:visited {
   font-family: "Aleo", serif;
 }
 	
-
-h1 {
-	display: flex;
-	justify-content: center;
-  	font-family: "Neuton", serif;
-  	font-weight: 700;
- 	 font-style: normal;
-	}
-
-p {
-  font-family: "Tajawal", serif;
-  font-weight: 400;
-  font-style: normal;
-  display: flex;
-  justify-content: center;
-}
-
-img {
-	style= width:500px;height:500px;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-}
-
-.list {
-	display: flex;
-	justify-content: center;
-}
