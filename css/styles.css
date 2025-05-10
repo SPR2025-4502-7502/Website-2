@@ -17,7 +17,7 @@
   font-size: 2rem;
 }
 
-body {
+.body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
