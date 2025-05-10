@@ -33,6 +33,14 @@ h1 {
  	 font-style: normal;
 	}
 
+h2 {
+	display: flex;
+	justify-content: center;
+	font-family: "Neuton", serif;
+  	font-weight: 700;
+ 	 font-style: normal;
+}
+
 p {
   font-family: "Tajawal", serif;
   font-weight: 400;
