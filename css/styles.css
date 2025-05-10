@@ -101,7 +101,7 @@ img {
 	style= width:500px;height:500px;
 	display: flex;
 	flex-direction: column;
-	align-self: center;
+	justify-content: center;
 }
 
 .list {
