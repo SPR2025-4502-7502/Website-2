@@ -93,6 +93,8 @@ p {
   font-family: "Tajawal", serif;
   font-weight: 400;
   font-style: normal;
+  display: flex;
+  justify-content: center;
 }
 
 img {
