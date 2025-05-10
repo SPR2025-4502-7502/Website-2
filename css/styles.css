@@ -64,6 +64,9 @@ img {
 .list {
 	display: flex;
 	justify-content: center;
+	font-family: "Tajawal", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 nav{
