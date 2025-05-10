@@ -41,6 +41,11 @@ p {
   justify-content: center;
 }
 
+.image-holder {
+	display: flex;
+	justify-content: center;
+}
+
 img {
 	style= width:500px;height:500px;
 	display: flex;
@@ -48,6 +53,10 @@ img {
 	justify-content: center;
 }
 
+.list {
+	display: flex;
+	justify-content: center;
+}
 
 nav{
 	margin: auto;
