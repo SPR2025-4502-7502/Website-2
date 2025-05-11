@@ -50,7 +50,7 @@ p {
 .introduction {
 	display: flex;
 	justify-content: center;
-	flex-direction: row-reverse;
+	flex-direction: column;
 	font-family: "Tajawal", serif;
   font-weight: 400;
   font-style: normal;
