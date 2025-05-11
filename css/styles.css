@@ -55,6 +55,7 @@ p {
   font-style: normal;
   display: flex;
   flex-direction: row;
+  justify-content: end;
 }
 
 .image-holder {
