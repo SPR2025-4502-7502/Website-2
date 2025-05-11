@@ -49,9 +49,7 @@ p {
 
 .introduction {
 	display: flex;
-	flex-direction: column;
-  justify-content: center;
-  align-content: center;
+	justify-content: center;
 	font-family: "Tajawal", serif;
   font-weight: 400;
   font-style: normal;
