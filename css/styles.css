@@ -47,6 +47,10 @@ p {
   font-style: normal;
 }
 
+.introduction {
+	display: flex;
+  justify-content: center;
+}
 .designer-statement {
 	font-family: "Tajawal", serif;
   font-weight: 400;
