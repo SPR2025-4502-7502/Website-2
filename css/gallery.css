@@ -108,6 +108,11 @@ p {
   font-style: normal;
 }
 
+img {
+	display: flex;
+	justify-content: center;
+}
+
 .gallery-section {
 max-width: 80%;
 margin: auto;
