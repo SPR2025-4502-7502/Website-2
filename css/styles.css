@@ -48,12 +48,12 @@ p {
 }
 
 .introduction {
-	font-family: "Tajawal", serif;
-  font-weight: 400;
-  font-style: normal;
 	display: flex;
 	flex-direction: column;
   justify-content: center;
+	font-family: "Tajawal", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 .designer-statement {
 	font-family: "Tajawal", serif;
