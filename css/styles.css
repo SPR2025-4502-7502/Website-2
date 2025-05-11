@@ -59,6 +59,7 @@ p {
   font-style: normal;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .image-holder {
